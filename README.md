@@ -18,12 +18,4 @@ $ npm install && bower install
 $ gulp serve
 ```
 
-## Run the examples locally
 
-You need to launch a local HTTP server from the `src/examples` directory. One way is by running `http-server`:
-
-```
-$ npm install -g http-server
-$ cd src/examples
-$ http-server
-```
